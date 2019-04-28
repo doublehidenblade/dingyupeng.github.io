@@ -1,0 +1,831 @@
+Fall,Major,Total,Male,Female
+1980,Aero & Astro Engineering,379,351,28
+1980,Agricultural Engineering,106,93,13
+1980,CER ENGR,156,125,31
+1980,CERAMICS,4,4,0
+1980,Civil Engineering,902,792,110
+1980,Computer Engineering,286,252,34
+1980,Computer Science,480,367,113
+1980,ENGR MECH,34,28,6
+1980,ENGR PHYS,105,97,8
+1980,ENV ENGR,33,27,6
+1980,ENV SCI,5,5,0
+1980,Electrical Engineering,1645,1497,148
+1980,GEN ENGR,618,485,133
+1980,Industrial Engineering,188,130,58
+1980,METAL ENGR,190,159,31
+1980,Mechanical Engineering,1012,934,78
+1980,Nuclear Engineering,187,178,9
+1980,Theoretical & Applied Mechans,0,0,0
+1981,Aero & Astro Engineering,435,405,30
+1981,Agricultural Engineering,101,89,12
+1981,CER ENGR,135,106,29
+1981,CERAMICS,3,2,1
+1981,Civil Engineering,811,701,110
+1981,Computer Engineering,323,275,48
+1981,Computer Science,583,430,153
+1981,ENGR MECH,47,36,11
+1981,ENGR PHYS,98,91,7
+1981,ENV ENGR,29,26,3
+1981,ENV SCI,12,9,3
+1981,Electrical Engineering,1561,1402,159
+1981,GEN ENGR,586,446,140
+1981,Industrial Engineering,188,135,53
+1981,METAL ENGR,196,162,34
+1981,Mechanical Engineering,1021,939,82
+1981,Nuclear Engineering,197,184,13
+1981,TCH CS,3,0,3
+1981,Theoretical & Applied Mechans,0,0,0
+1982,Aero & Astro Engineering,481,443,38
+1982,Agricultural Engineering,97,88,9
+1982,CER ENGR,117,87,30
+1982,CERAMICS,1,0,1
+1982,Civil Engineering,672,568,104
+1982,Computer Engineering,357,301,56
+1982,Computer Science,648,466,182
+1982,ENGR MECH,42,35,7
+1982,ENGR PHYS,88,79,9
+1982,ENV ENGR,30,25,5
+1982,ENV SCI,15,11,4
+1982,Electrical Engineering,1512,1353,159
+1982,GEN ENGR,552,400,152
+1982,Industrial Engineering,180,124,56
+1982,METAL ENGR,175,142,33
+1982,Mechanical Engineering,954,868,86
+1982,Nuclear Engineering,186,171,15
+1982,TCH CS,9,5,4
+1982,Theoretical & Applied Mechans,0,0,0
+1983,Aero & Astro Engineering,473,428,45
+1983,Agricultural Engineering,95,90,5
+1983,CER ENGR,155,121,34
+1983,CERAMICS,1,0,1
+1983,Civil Engineering,611,517,94
+1983,Computer Engineering,426,348,78
+1983,Computer Science,684,482,202
+1983,ENGR MECH,50,40,10
+1983,ENGR PHYS,81,71,10
+1983,ENV ENGR,31,23,8
+1983,ENV SCI,13,10,3
+1983,Electrical Engineering,1657,1475,182
+1983,GEN ENGR,470,324,146
+1983,Industrial Engineering,154,102,52
+1983,METAL ENGR,185,153,32
+1983,Mechanical Engineering,867,789,78
+1983,Nuclear Engineering,148,138,10
+1983,TCH CS,4,2,2
+1983,Theoretical & Applied Mechans,0,0,0
+1984,Aero & Astro Engineering,495,445,50
+1984,Agricultural Engineering,78,73,5
+1984,CER ENGR,156,117,39
+1984,Civil Engineering,552,469,83
+1984,Computer Engineering,484,408,76
+1984,Computer Science,600,443,157
+1984,ENGR MECH,46,36,10
+1984,ENGR PHYS,81,73,8
+1984,ENV ENGR,37,30,7
+1984,ENV SCI,10,8,2
+1984,Electrical Engineering,1755,1543,212
+1984,GEN ENGR,432,305,127
+1984,Industrial Engineering,135,89,46
+1984,METAL ENGR,165,136,29
+1984,Mechanical Engineering,879,793,86
+1984,Nuclear Engineering,142,131,11
+1984,TCH CS,3,2,1
+1984,Theoretical & Applied Mechans,0,0,0
+1985,Aero & Astro Engineering,618,557,61
+1985,Agricultural Engineering,73,68,5
+1985,CER ENGR,180,137,43
+1985,CERAMICS,1,0,1
+1985,Civil Engineering,529,452,77
+1985,Computer Engineering,501,436,65
+1985,Computer Science,538,414,124
+1985,ENGR MECH,55,45,10
+1985,ENGR PHYS,92,77,15
+1985,ENV ENGR,29,22,7
+1985,ENV SCI,11,6,5
+1985,Electrical Engineering,1945,1711,234
+1985,GEN ENGR,451,313,138
+1985,Industrial Engineering,158,109,49
+1985,METAL ENGR,169,142,27
+1985,Mechanical Engineering,968,869,99
+1985,Nuclear Engineering,140,127,13
+1985,TCH CS,1,0,1
+1985,Theoretical & Applied Mechans,0,0,0
+1986,Aero & Astro Engineering,599,540,59
+1986,Agricultural Engineering,74,72,2
+1986,CER ENGR,204,156,48
+1986,Civil Engineering,553,470,83
+1986,Computer Engineering,463,407,56
+1986,Computer Science,488,383,105
+1986,ENGR MECH,57,44,13
+1986,ENGR PHYS,108,100,8
+1986,ENV ENGR,32,28,4
+1986,ENV SCI,11,6,5
+1986,Electrical Engineering,2041,1813,228
+1986,GEN ENGR,504,347,157
+1986,Industrial Engineering,202,133,69
+1986,METAL ENGR,185,155,30
+1986,Mechanical Engineering,1010,896,114
+1986,Nuclear Engineering,152,140,12
+1986,TCH CS,2,1,1
+1986,Theoretical & Applied Mechans,0,0,0
+1987,Aero & Astro Engineering,655,595,60
+1987,Agricultural Engineering,60,58,2
+1987,CER ENGR,246,194,52
+1987,Civil Engineering,567,474,93
+1987,Computer Engineering,407,374,33
+1987,Computer Science,442,366,76
+1987,ENGR MECH,44,35,9
+1987,ENGR PHYS,102,87,15
+1987,ENV ENGR,39,30,9
+1987,ENV SCI,11,8,3
+1987,Electrical Engineering,2004,1764,240
+1987,GEN ENGR,553,401,152
+1987,Industrial Engineering,201,140,61
+1987,METAL ENGR,174,147,27
+1987,Mechanical Engineering,1006,887,119
+1987,Nuclear Engineering,146,132,14
+1987,TCH CS,1,0,1
+1987,Theoretical & Applied Mechans,0,0,0
+1988,Aero & Astro Engineering,610,552,58
+1988,Agricultural Engineering,78,74,4
+1988,CER ENGR,248,199,49
+1988,CERAMICS,1,1,0
+1988,Civil Engineering,641,544,97
+1988,Computer Engineering,368,333,35
+1988,Computer Science,447,377,70
+1988,ENGR MECH,59,53,6
+1988,ENGR PHYS,109,90,19
+1988,ENV ENGR,45,33,12
+1988,ENV SCI,15,10,5
+1988,Electrical Engineering,1864,1645,219
+1988,GEN ENGR,588,453,135
+1988,Industrial Engineering,209,146,63
+1988,METAL ENGR,166,139,27
+1988,Mechanical Engineering,971,854,117
+1988,Nuclear Engineering,157,138,19
+1988,Theoretical & Applied Mechans,0,0,0
+1989,Aero & Astro Engineering,513,460,53
+1989,Agricultural Engineering,83,77,6
+1989,CER ENGR,237,203,34
+1989,CERAMICS,2,2,0
+1989,Civil Engineering,682,586,96
+1989,Computer Engineering,313,286,27
+1989,Computer Science,418,354,64
+1989,ENGR MECH,90,77,13
+1989,ENGR PHYS,121,107,14
+1989,ENV ENGR,37,27,10
+1989,ENV SCI,14,9,5
+1989,Electrical Engineering,1594,1406,188
+1989,GEN ENGR,626,483,143
+1989,Industrial Engineering,261,192,69
+1989,METAL ENGR,167,141,26
+1989,Mechanical Engineering,854,765,89
+1989,Nuclear Engineering,178,158,20
+1989,Theoretical & Applied Mechans,0,0,0
+1990,Aero & Astro Engineering,479,430,49
+1990,Agricultural Engineering,86,76,10
+1990,CER ENGR,212,179,33
+1990,CERAMICS,4,3,1
+1990,Civil Engineering,749,647,102
+1990,Computer Engineering,301,271,30
+1990,Computer Science,388,319,69
+1990,ENGR MECH,91,80,11
+1990,ENGR PHYS,112,97,15
+1990,ENV ENGR,57,45,12
+1990,ENV SCI,11,8,3
+1990,Electrical Engineering,1576,1404,172
+1990,GEN ENGR,637,506,131
+1990,Industrial Engineering,215,148,67
+1990,METAL ENGR,163,139,24
+1990,Mechanical Engineering,933,853,80
+1990,Nuclear Engineering,165,143,22
+1990,Theoretical & Applied Mechans,0,0,0
+1991,Aero & Astro Engineering,442,397,45
+1991,Agricultural Engineering,89,73,16
+1991,CER ENGR,186,156,30
+1991,CERAMICS,9,5,4
+1991,Civil Engineering,819,684,135
+1991,Computer Engineering,302,278,24
+1991,Computer Science,385,327,58
+1991,ENGR MECH,76,67,9
+1991,ENGR PHYS,111,94,17
+1991,ENV ENGR,65,53,12
+1991,ENV SCI,13,9,4
+1991,Electrical Engineering,1516,1353,163
+1991,GEN ENGR,644,501,143
+1991,Industrial Engineering,169,116,53
+1991,METAL ENGR,170,145,25
+1991,Mechanical Engineering,1003,919,84
+1991,Nuclear Engineering,185,159,26
+1991,TCH CS,1,0,1
+1991,Theoretical & Applied Mechans,0,0,0
+1992,Aero & Astro Engineering,392,347,45
+1992,Agricultural Engineering,87,70,17
+1992,CER ENGR,190,161,29
+1992,CERAMICS,13,9,4
+1992,Civil Engineering,934,782,152
+1992,Computer Engineering,326,298,28
+1992,Computer Science,390,339,51
+1992,ENGR MECH,74,65,9
+1992,ENGR PHYS,76,60,16
+1992,ENV ENGR,81,65,16
+1992,ENV SCI,15,8,7
+1992,Electrical Engineering,1524,1356,168
+1992,GEN ENGR,614,472,142
+1992,Industrial Engineering,153,112,41
+1992,METAL ENGR,169,144,25
+1992,Mechanical Engineering,989,901,88
+1992,Nuclear Engineering,167,147,20
+1992,TCH CS,2,1,1
+1992,Theoretical & Applied Mechans,0,0,0
+1993,Aero & Astro Engineering,366,322,44
+1993,Agricultural Engineering,89,66,23
+1993,CER ENGR,183,157,26
+1993,CERAMICS,12,10,2
+1993,Civil Engineering,1121,929,192
+1993,Computer Engineering,383,349,34
+1993,Computer Science,462,395,67
+1993,ENGR MECH,62,53,9
+1993,ENGR PHYS,71,53,18
+1993,ENV ENGR,80,66,14
+1993,ENV SCI,12,8,4
+1993,Electrical Engineering,1509,1346,163
+1993,GEN ENGR,575,447,128
+1993,Industrial Engineering,153,102,51
+1993,METAL ENGR,163,132,31
+1993,Mechanical Engineering,1005,908,97
+1993,Nuclear Engineering,152,128,24
+1993,TCH CS,2,2,0
+1993,Theoretical & Applied Mechans,0,0,0
+1994,Aero & Astro Engineering,320,280,40
+1994,Agricultural Engineering,93,68,25
+1994,CER ENGR,136,117,19
+1994,CERAMIC ENG,7,7,0
+1994,CERAMICS,4,4,0
+1994,Civil Engineering,1140,939,201
+1994,Computer Engineering,430,393,37
+1994,Computer Science,540,477,63
+1994,ENGR MECH,56,47,9
+1994,ENGR PHYS,71,55,16
+1994,ENV ENGR,66,54,12
+1994,ENV SCI,12,10,2
+1994,Electrical Engineering,1533,1364,169
+1994,GEN ENGR,594,462,132
+1994,Industrial Engineering,155,109,46
+1994,METAL ENGR,77,67,10
+1994,Materials Science & Engr,121,96,25
+1994,Mechanical Engineering,1036,925,111
+1994,Nuclear Engineering,125,105,20
+1994,TCH CS,2,2,0
+1994,Theoretical & Applied Mechans,0,0,0
+1995,Aero & Astro Engineering,286,252,34
+1995,Agricultural Engineering,106,80,26
+1995,CER ENGR,90,74,16
+1995,CERAMIC ENG,2,2,0
+1995,CERAMICS,2,1,1
+1995,Civil Engineering,1068,861,207
+1995,Computer Engineering,536,500,36
+1995,Computer Science,603,540,63
+1995,ENGR MECH,38,30,8
+1995,ENGR PHYS,71,56,15
+1995,ENV ENGR,72,55,17
+1995,ENV SCI,10,6,4
+1995,Electrical Engineering,1512,1326,186
+1995,GEN ENGR,557,433,124
+1995,Industrial Engineering,151,112,39
+1995,MATSCI&ENG,72,66,6
+1995,METAL ENGR,52,45,7
+1995,Materials Science & Engr,130,102,28
+1995,Mechanical Engineering,1030,904,126
+1995,Nuclear Engineering,107,91,16
+1995,TCH CS,2,1,1
+1995,Theoretical & Applied Mechans,0,0,0
+1996,Aero & Astro Engineering,258,212,46
+1996,Agricultural Engineering,116,94,22
+1996,CER ENGR,47,37,10
+1996,CERAMIC ENG,1,1,0
+1996,CERAMICS,2,1,1
+1996,Civil Engineering,973,772,201
+1996,Computer Engineering,574,537,37
+1996,Computer Science,632,553,79
+1996,ENGR MECH,37,29,8
+1996,ENGR PHYS,71,56,15
+1996,ENV ENGR,60,48,12
+1996,ENV SCI,16,7,9
+1996,Electrical Engineering,1469,1274,195
+1996,GEN ENGR,512,385,127
+1996,Industrial Engineering,156,102,54
+1996,MATSCI&ENG,123,102,21
+1996,METAL ENGR,36,32,4
+1996,Materials Science & Engr,111,90,21
+1996,Mechanical Engineering,1029,894,135
+1996,Nuclear Engineering,105,88,17
+1996,TCH CS,1,0,1
+1996,Theoretical & Applied Mechans,0,0,0
+1997,Aero & Astro Engineering,279,225,54
+1997,Agricultural Engineering,132,104,28
+1997,CER ENGR,27,22,5
+1997,Civil Engineering,918,710,208
+1997,Computer Engineering,591,545,46
+1997,Computer Science,685,608,77
+1997,ENGR MECH,35,33,2
+1997,ENGR PHYS,66,55,11
+1997,ENV ENGR,70,51,19
+1997,ENV SCI,14,8,6
+1997,Electrical Engineering,1419,1242,177
+1997,GEN ENGR,450,318,132
+1997,Industrial Engineering,170,114,56
+1997,MATSCI&ENG,148,119,29
+1997,METAL ENGR,22,21,1
+1997,Materials Science & Engr,113,86,27
+1997,Mechanical Engineering,985,843,142
+1997,Nuclear Engineering,91,77,14
+1997,Theoretical & Applied Mechans,0,0,0
+1998,Aero & Astro Engineering,299,238,61
+1998,Agricultural Engineering,119,93,26
+1998,CER ENGR,9,9,0
+1998,Civil Engineering,845,658,187
+1998,Computer Engineering,682,618,64
+1998,Computer Science,711,630,81
+1998,ENGR MECH,30,27,3
+1998,ENGR PHYS,52,47,5
+1998,ENV ENGR,65,38,27
+1998,ENV SCI,17,10,7
+1998,Electrical Engineering,1355,1198,157
+1998,GEN ENGR,432,302,130
+1998,Industrial Engineering,158,110,48
+1998,MATSCI&ENG,169,137,32
+1998,METAL ENGR,11,10,1
+1998,Materials Science & Engr,107,77,30
+1998,Mechanical Engineering,988,859,129
+1998,Nuclear Engineering,85,71,14
+1998,Theoretical & Applied Mechans,0,0,0
+1999,Aero & Astro Engineering,343,269,74
+1999,Agricultural Engineering,114,84,30
+1999,CER ENGR,2,2,0
+1999,Civil Engineering,791,616,175
+1999,Computer Engineering,783,704,79
+1999,Computer Science,777,685,92
+1999,ENGR MECH,20,16,4
+1999,ENGR NONDEGREE,4,2,2
+1999,ENGR PHYS,63,53,10
+1999,ENV ENGR,64,42,22
+1999,ENV SCI,12,6,6
+1999,Electrical Engineering,1282,1125,157
+1999,GEN ENGR,429,302,127
+1999,Industrial Engineering,148,107,41
+1999,MATSCI&ENG,193,153,40
+1999,METAL ENGR,2,1,1
+1999,Materials Science & Engr,105,76,29
+1999,Mechanical Engineering,929,813,116
+1999,Nuclear Engineering,84,71,13
+1999,Theoretical & Applied Mechans,0,0,0
+2000,Aero & Astro Engineering,378,307,71
+2000,Agricultural Engineering,122,89,33
+2000,CER ENGR,2,2,0
+2000,Civil Engineering,781,623,158
+2000,Computer Engineering,806,730,76
+2000,Computer Science,779,690,89
+2000,ENGR MECH,17,16,1
+2000,ENGR NONDEGREE,58,51,7
+2000,ENGR PHYS,65,50,15
+2000,ENV ENGR,79,45,34
+2000,ENV SCI,9,5,4
+2000,Electrical Engineering,1219,1046,173
+2000,GEN ENGR,479,345,134
+2000,Industrial Engineering,125,88,37
+2000,MATSCI&ENG,166,126,40
+2000,METAL ENGR,1,1,0
+2000,Materials Science & Engr,115,84,31
+2000,Mechanical Engineering,891,791,100
+2000,Nuclear Engineering,87,73,14
+2000,Theoretical & Applied Mechans,0,0,0
+2001,Aero & Astro Engineering,412,344,68
+2001,Agricultural Engineering,110,89,21
+2001,Civil Engineering,776,607,169
+2001,Computer Engineering,847,768,79
+2001,Computer Science,884,789,95
+2001,ENGR MECH,29,21,8
+2001,ENGR NONDEGREE,70,60,10
+2001,ENGR PHYS,94,79,15
+2001,ENV ENGR,79,46,33
+2001,ENV SCI,11,7,4
+2001,Electrical Engineering,1205,1017,188
+2001,GEN ENGR,507,389,118
+2001,Industrial Engineering,115,78,37
+2001,MATSCI&ENG,173,137,36
+2001,Materials Science & Engr,135,100,35
+2001,Mechanical Engineering,918,832,86
+2001,Nuclear Engineering,82,71,11
+2001,Theoretical & Applied Mechans,0,0,0
+2002,Aero & Astro Engineering,428,349,79
+2002,Agricultural Engineering,95,74,21
+2002,Civil Engineering,793,626,167
+2002,Computer Engineering,825,738,87
+2002,Computer Science,874,783,91
+2002,ENGR MECH,54,40,14
+2002,ENGR NONDEGREE,57,48,9
+2002,ENGR PHYS,90,76,14
+2002,ENV ENGR,60,36,24
+2002,ENV SCI,10,7,3
+2002,Electrical Engineering,1298,1088,210
+2002,GEN ENGR,538,414,124
+2002,Industrial Engineering,108,76,32
+2002,MATSCI&ENG,191,141,50
+2002,MCS INTERNET,1,1,0
+2002,Materials Science & Engr,142,106,36
+2002,Mechanical Engineering,888,802,86
+2002,Nuclear Engineering,97,77,20
+2002,Theoretical & Applied Mechans,0,0,0
+2003,Aero & Astro Engineering,417,343,74
+2003,Agricultural Engineering,95,79,16
+2003,Civil Engineering,795,626,169
+2003,Computer Engineering,756,683,73
+2003,Computer Science,780,696,84
+2003,ENGR MECH,65,55,10
+2003,ENGR NONDEGREE,78,65,13
+2003,ENGR PHYS,91,79,12
+2003,ENV ENGR,70,41,29
+2003,ENV SCI,10,6,4
+2003,Electrical Engineering,1423,1203,220
+2003,GEN ENGR,601,468,133
+2003,Industrial Engineering,91,62,29
+2003,MATSCI&ENG,215,159,56
+2003,Materials Science & Engr,158,108,50
+2003,Mechanical Engineering,954,845,109
+2003,Nuclear Engineering,126,103,23
+2003,Systems & Entrepreneurial Engr,12,10,2
+2003,Theoretical & Applied Mechans,0,0,0
+2004,Aero & Astro Engineering,433,359,73
+2004,Agricultural Engineering,94,77,17
+2004,Bioengineering,24,18,6
+2004,Civil Engineering,757,599,158
+2004,Computer Engineering,636,588,48
+2004,Computer Science,1192,1053,137
+2004,Electrical Engineering,1444,1243,201
+2004,Engineering Mechanics,72,58,14
+2004,Engineering Physics,102,85,17
+2004,Environ Engr in Civil Engr,74,44,30
+2004,Environ Science in Civil Engr,14,8,6
+2004,General Engineering,608,487,121
+2004,Industrial Engineering,92,59,33
+2004,Materials Science & Engr,408,300,108
+2004,Mechanical Engineering,1014,899,115
+2004,Nondegree,78,62,16
+2004,Nuclear Engineering,155,128,27
+2004,Physics,299,259,40
+2004,Systems & Entrepreneurial Engr,23,20,3
+2004,Theoretical & Applied Mechans,0,0,0
+2005,Aero & Astro Engineering,48,42,6
+2005,Aerospace Engineering,381,326,55
+2005,Agricultural Engineering,93,77,16
+2005,Bioengineering,60,40,20
+2005,Civil Engineering,795,641,154
+2005,Computer Engineering,563,520,42
+2005,Computer Science,1064,943,119
+2005,Electrical Engineering,1406,1223,183
+2005,Engineering Mechanics,78,63,15
+2005,Engineering Physics,101,87,14
+2005,Environ Engr in Civil Engr,61,33,28
+2005,Environ Science in Civil Engr,14,9,5
+2005,General Engineering,624,509,115
+2005,Industrial Engineering,81,54,27
+2005,Materials Science & Engr,383,288,95
+2005,Mechanical Engineering,1055,931,121
+2005,Nondegree,83,65,18
+2005,Nuclear Engineering,159,136,23
+2005,Physics,296,258,38
+2005,Systems & Entrepreneurial Engr,27,24,3
+2005,Theoretical & Applied Mechans,0,0,0
+2006,Aero & Astro Engineering,24,21,3
+2006,Aerospace Engineering,426,372,54
+2006,Agricultural Engineering,88,72,16
+2006,Bioengineering,101,60,41
+2006,Bioinformatics,4,2,2
+2006,Civil Engineering,793,638,155
+2006,Computer Engineering,477,439,36
+2006,Computer Science,987,867,118
+2006,Electrical & Computer Engr,163,135,28
+2006,Electrical Engineering,1195,1045,150
+2006,Engineering Mechanics,62,47,15
+2006,Engineering Physics,124,110,14
+2006,Environ Engr in Civil Engr,58,34,24
+2006,Environ Science in Civil Engr,16,10,6
+2006,General Engineering,580,469,111
+2006,Industrial Engineering,81,58,23
+2006,Materials Science & Engr,403,300,103
+2006,Mechanical Engineering,1079,952,125
+2006,Nondegree,104,92,12
+2006,Nuclear Engineering,162,139,23
+2006,Physics,298,258,40
+2006,Systems & Entrepreneurial Engr,31,29,2
+2006,Theoretical & Applied Mechans,0,0,0
+2007,Aerospace Engineering,482,424,58
+2007,Agricultural Engineering,92,78,14
+2007,Bioengineering,136,79,57
+2007,Bioinformatics,4,2,2
+2007,Civil Engineering,830,654,175
+2007,Computer Engineering,434,397,35
+2007,Computer Science,956,834,120
+2007,Electrical & Computer Engr,521,448,73
+2007,Electrical Engineering,774,691,83
+2007,Engineering Mechanics,49,37,12
+2007,Engineering Physics,134,121,13
+2007,Environ Engr in Civil Engr,63,33,30
+2007,Environ Science in Civil Engr,13,5,8
+2007,General Engineering,595,477,117
+2007,Industrial Engineering,87,59,28
+2007,Materials Science & Engr,398,305,93
+2007,Mechanical Engineering,1090,955,133
+2007,Nondegree,106,87,19
+2007,Nuclear Engineering,171,138,33
+2007,Physics,288,248,40
+2007,Systems & Entrepreneurial Engr,33,30,3
+2007,Theoretical & Applied Mechans,0,0,0
+2008,Aerospace Engineering,514,453,60
+2008,Agricultural & Biological Engr,14,7,7
+2008,Agricultural Engineering,90,76,14
+2008,Bioengineering,173,101,72
+2008,Civil Engineering,955,735,219
+2008,Computer Engineering,446,398,46
+2008,Computer Science,980,858,121
+2008,Electrical & Computer Engr,504,444,60
+2008,Electrical Engineering,804,717,86
+2008,Engineering Mechanics,75,61,13
+2008,Engineering Physics,131,118,13
+2008,Environ Engr in Civil Engr,75,34,41
+2008,Environ Science in Civil Engr,10,3,7
+2008,General Engineering,542,411,131
+2008,Industrial Engineering,125,86,39
+2008,Materials Science & Engr,439,339,100
+2008,Mechanical Engineering,1099,968,129
+2008,Nondegree,135,110,25
+2008,Nuclear Engineering,174,152,22
+2008,Physics,302,262,40
+2008,Systems & Entrepreneurial Engr,33,28,5
+2008,Theoretical & Applied Mechans,0,0,0
+2009,Aerospace Engineering,507,443,64
+2009,Agricultural & Biological Engr,59,37,22
+2009,Agricultural Engineering,64,55,9
+2009,Bioengineering,178,105,73
+2009,Bioinformatics,4,2,2
+2009,Civil Engineering,1090,816,272
+2009,Computer Engineering,469,423,45
+2009,Computer Science,1035,914,121
+2009,Electrical & Computer Engr,513,446,67
+2009,Electrical Engineering,945,837,107
+2009,Engineering Mechanics,106,89,17
+2009,Engineering Physics,139,125,14
+2009,Environ Engr in Civil Engr,80,40,40
+2009,Environ Science in Civil Engr,11,3,8
+2009,General Engineering,454,349,104
+2009,Industrial Engineering,159,112,47
+2009,Materials Science & Engr,463,344,119
+2009,Mechanical Engineering,1052,936,114
+2009,Nondegree,196,154,42
+2009,Nuclear Engineering,117,102,15
+2009,"Nuclear, Plasma, Radiolgc Engr ",102,83,19
+2009,Physics,275,238,37
+2009,Systems & Entrepreneurial Engr,30,22,8
+2009,Theoretical & Applied Mechans,0,0,0
+2010,Aerospace Engineering,526,456,70
+2010,Agricultural & Biological Engr,102,71,31
+2010,Agricultural Engineering,44,37,7
+2010,Bioengineering,200,126,74
+2010,Bioinformatics,3,2,1
+2010,Civil Engineering,1169,875,291
+2010,Computer Engineering,524,480,43
+2010,Computer Science,1169,1033,136
+2010,Electrical & Computer Engr,504,436,68
+2010,Electrical Engineering,1024,906,116
+2010,Engineering Mechanics,135,115,20
+2010,Engineering Physics,143,127,16
+2010,Environ Engr in Civil Engr,84,40,44
+2010,Environ Science in Civil Engr,9,2,7
+2010,Financial Engineering,26,21,5
+2010,General Engineering,426,326,99
+2010,Industrial Engineering,201,145,56
+2010,Materials Science & Engr,466,360,106
+2010,Mechanical Engineering,1092,978,112
+2010,Nondegree,201,169,32
+2010,Nuclear Engineering,122,105,17
+2010,"Nuclear, Plasma, Radiolgc Engr ",118,99,19
+2010,Physics,260,226,34
+2010,Systems & Entrepreneurial Engr,26,21,5
+2010,Teaching of Physics,0,0,0
+2010,Theoretical & Applied Mechans,0,0,0
+2011,Aerospace Engineering,507,437,70
+2011,Agricultural & Biological Engr,156,108,48
+2011,Agricultural Engineering,10,7,3
+2011,Bioengineering,231,134,97
+2011,Bioinformatics,2,1,1
+2011,Civil Engineering,1178,893,284
+2011,Computer Engineering,608,563,45
+2011,Computer Science,1229,1090,139
+2011,Electrical & Computer Engr,476,417,59
+2011,Electrical Engineering,1128,995,133
+2011,Engineering Mechanics,142,126,16
+2011,Engineering Physics,152,138,14
+2011,Environ Engr in Civil Engr,96,40,56
+2011,Environ Science in Civil Engr,7,4,3
+2011,Financial Engineering,69,52,17
+2011,General Engineering,384,307,77
+2011,Industrial Engineering,226,168,58
+2011,Materials Science & Engr,547,423,124
+2011,Mechanical Engineering,1055,927,126
+2011,Nondegree,207,162,45
+2011,Nuclear Engineering,59,49,10
+2011,"Nuclear, Plasma, Radiolgc Engr ",209,184,25
+2011,Physics,265,227,38
+2011,Systems & Entrepreneurial Engr,19,13,6
+2011,Teaching of Physics,0,0,0
+2011,Theoretical & Applied Mechans,0,0,0
+2012,Aerospace Engineering,489,419,70
+2012,Agricultural & Biological Engr,183,132,51
+2012,Agricultural Engineering,2,2,0
+2012,Bioengineering,259,145,114
+2012,Bioinformatics,2,2,0
+2012,Civil Engineering,1241,941,300
+2012,Computer Engineering,697,635,62
+2012,Computer Science,1386,1225,161
+2012,Electrical & Computer Engr,473,410,63
+2012,Electrical Engineering,1163,1021,142
+2012,Engineering Mechanics,122,110,12
+2012,Engineering Physics,177,158,19
+2012,Engineering Undesignated,1,0,1
+2012,Environ Engr in Civil Engr,91,44,47
+2012,Environ Science in Civil Engr,7,3,4
+2012,Financial Engineering,100,67,33
+2012,General Engineering,368,270,98
+2012,Industrial Engineering,268,206,62
+2012,Materials Science & Engr,571,433,138
+2012,Mechanical Engineering,1110,956,153
+2012,Nondegree,228,184,43
+2012,Nuclear Engineering,26,21,5
+2012,"Nuclear, Plasma, Radiolgc Engr ",231,203,28
+2012,Physics,254,213,41
+2012,Systems & Entrepreneurial Engr,20,14,6
+2012,Teaching of Physics,0,0,0
+2012,Theoretical & Applied Mechans,0,0,0
+2013,Aerospace Engineering,536,476,60
+2013,Agricultural & Biological Engr,160,116,44
+2013,Agricultural Engineering,1,1,0
+2013,Bioengineering,276,152,124
+2013,Bioinformatics,3,2,1
+2013,Civil Engineering,1287,970,317
+2013,Computer Engineering,791,721,70
+2013,Computer Science,1514,1292,222
+2013,Electrical & Computer Engr,494,423,71
+2013,Electrical Engineering,1170,1034,135
+2013,Engineering Mechanics,97,86,11
+2013,Engineering Physics,197,179,18
+2013,Engineering Undeclared,100,76,24
+2013,Environ Engr in Civil Engr,110,55,55
+2013,Environ Science in Civil Engr,4,1,3
+2013,Financial Engineering,98,62,36
+2013,General Engineering,320,248,72
+2013,Industrial Engineering,296,230,66
+2013,Materials Science & Engr,602,453,149
+2013,Mechanical Engineering,1197,1041,155
+2013,Nondegree,207,173,34
+2013,Nuclear Engineering,14,11,3
+2013,"Nuclear, Plasma, Radiolgc Engr ",225,196,29
+2013,Physics,255,212,43
+2013,Systems & Entrepreneurial Engr,25,16,9
+2013,Teaching of Physics,0,0,0
+2013,Theoretical & Applied Mechans,0,0,0
+2014,Aerospace Engineering,608,547,61
+2014,Agricultural & Biological Engr,148,108,40
+2014,Bioengineering,320,174,146
+2014,Bioinformatics,3,1,2
+2014,Civil Engineering,1294,972,322
+2014,Computer Engineering,905,813,92
+2014,Computer Science,1596,1305,291
+2014,Electrical & Computer Engr,534,455,79
+2014,Electrical Engineering,1109,973,135
+2014,Engineering,4,3,1
+2014,Engineering Mechanics,93,85,8
+2014,Engineering Physics,231,210,21
+2014,Engineering Undeclared,118,73,45
+2014,Environ Engr in Civil Engr,118,56,62
+2014,Environ Science in Civil Engr,1,0,1
+2014,Financial Engineering,109,76,33
+2014,General Engineering,271,211,60
+2014,Industrial Engineering,341,267,74
+2014,Materials Science & Engr,600,435,165
+2014,Mechanical Engineering,1231,1057,174
+2014,Nondegree,228,176,52
+2014,Nuclear Engineering,5,4,1
+2014,"Nuclear, Plasma, Radiolgc Engr ",215,185,30
+2014,Physics,257,207,50
+2014,Systems & Entrepreneurial Engr,24,21,3
+2014,Teaching of Physics,0,0,0
+2014,Theoretical & Applied Mechans,0,0,0
+2015,Aerospace Engineering,657,588,69
+2015,Agricultural & Biological Engr,126,88,38
+2015,Bioengineering,318,167,151
+2015,Bioinformatics,5,2,3
+2015,Bioinstrumentation,12,7,5
+2015,Civil Engineering,1319,976,343
+2015,Computer Engineering,1062,952,109
+2015,Computer Science,1640,1310,330
+2015,Electrical & Computer Engr,503,429,74
+2015,Electrical Engineering,1146,1002,144
+2015,Engineering,20,14,6
+2015,Engineering Mechanics,112,101,11
+2015,Engineering Physics,248,218,30
+2015,Engineering Undeclared,147,117,30
+2015,Environ Engr in Civil Engr,100,46,54
+2015,Environ Science in Civil Engr,1,0,1
+2015,Financial Engineering,122,91,31
+2015,General Engineering,230,172,58
+2015,Industrial Engineering,337,247,90
+2015,Materials Science & Engr,586,418,168
+2015,Mechanical Engineering,1251,1069,182
+2015,Nondegree,218,172,46
+2015,Nuclear Engineering,3,2,1
+2015,"Nuclear, Plasma, Radiolgc Engr ",233,204,29
+2015,Physics,261,203,58
+2015,Systems & Entrepreneurial Engr,28,21,7
+2015,Theoretical & Applied Mechans,0,0,0
+2016,Aerospace Engineering,672,583,89
+2016,Agricultural & Biological Engr,121,80,41
+2016,Bioengineering,349,190,159
+2016,Bioinformatics,5,4,1
+2016,Bioinstrumentation,16,10,6
+2016,Civil Engineering,1329,972,357
+2016,Computer Engineering,1195,1063,132
+2016,Computer Science,1748,1328,420
+2016,Electrical & Computer Engr,585,488,97
+2016,Electrical Engineering,1151,1003,148
+2016,Engineering,25,21,4
+2016,Engineering Mechanics,137,117,20
+2016,Engineering Physics,226,197,29
+2016,Engineering Undeclared,75,45,30
+2016,Environ Engr in Civil Engr,118,52,66
+2016,Environ Science in Civil Engr,1,0,1
+2016,Financial Engineering,121,84,37
+2016,General Engineering,219,169,50
+2016,Industrial Engineering,353,251,102
+2016,Materials Science & Engr,566,397,169
+2016,Mechanical Engineering,1269,1050,219
+2016,Nondegree,194,155,39
+2016,Nuclear Engineering,2,2,0
+2016,"Nuclear, Plasma, Radiolgc Engr ",231,200,31
+2016,Physics,286,219,67
+2016,Systems & Entrepreneurial Engr,20,17,3
+2016,Systems Engineering and Design,4,4,0
+2016,Theoretical & Applied Mechans,0,0,0
+2017,Aerospace Engineering,716,612,104
+2017,Agricultural & Biological Engr,152,95,57
+2017,Bioengineering,369,187,182
+2017,Bioinformatics,6,5,1
+2017,Bioinstrumentation,1,1,0
+2017,Civil Engineering,1319,957,362
+2017,Computer Engineering,1270,1114,156
+2017,Computer Science,2048,1557,491
+2017,Electrical & Computer Engr,620,512,108
+2017,Electrical Engineering,1025,879,146
+2017,Engineering,28,24,4
+2017,Engineering Mechanics,129,107,22
+2017,Engineering Physics,271,230,41
+2017,Engineering Undeclared,102,59,42
+2017,Environ Engr in Civil Engr,115,53,62
+2017,Environ Science in Civil Engr,1,0,1
+2017,Financial Engineering,128,88,40
+2017,General Engineering,3,3,0
+2017,Industrial Engineering,390,275,115
+2017,Materials Science & Engr,520,369,151
+2017,Mechanical Engineering,1306,1071,235
+2017,Nondegree,184,148,36
+2017,Nuclear Engineering,2,2,0
+2017,"Nuclear, Plasma, Radiolgc Engr ",234,201,33
+2017,Physics,297,223,74
+2017,Systems & Entrepreneurial Engr,24,21,3
+2017,Systems Engineering and Design,228,176,52
+2017,Theoretical & Applied Mechans,0,0,0
+2018,Aerospace Engineering,686,581,105
+2018,Agricultural & Biological Engr,141,88,53
+2018,Bioengineering,383,194,189
+2018,Bioinformatics,6,4,2
+2018,Civil Engineering,1225,901,324
+2018,Computer Engineering,1184,1032,152
+2018,Computer Science,2318,1757,559
+2018,Electrical & Computer Engr,657,545,112
+2018,Electrical Engineering,913,786,127
+2018,Engineering,34,25,9
+2018,Engineering Mechanics,112,96,16
+2018,Engineering Physics,275,228,47
+2018,Engineering Undeclared,151,94,57
+2018,Environ Engr in Civil Engr,99,55,44
+2018,Financial Engineering,127,89,38
+2018,Industrial Engineering,367,262,105
+2018,Materials Science & Engr,504,357,147
+2018,Mechanical Engineering,1285,1037,248
+2018,Nondegree,181,132,49
+2018,"Nuclear, Plasma, Radiolgc Engr ",218,190,28
+2018,Physics,290,211,79
+2018,Systems & Entrepreneurial Engr,22,22,0
+2018,Systems Engineering and Design,249,180,68
+2018,Theoretical & Applied Mechans,0,0,0

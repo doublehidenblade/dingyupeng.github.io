@@ -1,0 +1,414 @@
+Fall,Major,Total,Male,Female
+1980,Accountancy,1529,928,601
+1980,Business Administration,1414,831,583
+1980,Computer Science,217,177,40
+1980,Economics,160,117,43
+1980,Finance,536,352,184
+1980,MARKETING,54,24,30
+1980,Teaching of Spanish,30,2,28
+1980,Theatre,122,56,66
+1980,UNASSIGNED,0,0,0
+1981,Accountancy,1605,925,680
+1981,Business Administration,1287,736,551
+1981,Computer Science,246,193,53
+1981,Economics,183,137,46
+1981,Finance,508,339,169
+1981,MARKETING,186,85,101
+1981,Teaching of Spanish,28,3,25
+1981,Theatre,129,63,66
+1981,UNASSIGNED,0,0,0
+1982,Accountancy,1554,862,692
+1982,Business Administration,1147,641,506
+1982,Computer Science,318,255,63
+1982,Economics,181,142,39
+1982,Finance,557,348,209
+1982,MARKETING,223,102,121
+1982,Teaching of Spanish,28,2,26
+1982,Theatre,138,74,64
+1982,UNASSIGNED,0,0,0
+1983,Accountancy,1529,791,738
+1983,Business Administration,1031,573,458
+1983,Computer Science,368,297,71
+1983,Economics,180,145,35
+1983,Finance,594,350,244
+1983,MARKETING,196,85,111
+1983,Teaching of Spanish,23,2,21
+1983,Theatre,127,71,56
+1983,UNASSIGNED,0,0,0
+1984,Accountancy,1315,648,667
+1984,Business Administration,967,511,456
+1984,Computer Science,334,272,62
+1984,Economics,182,144,38
+1984,Finance,551,319,232
+1984,MARKETING,179,73,106
+1984,Teaching of Spanish,19,3,16
+1984,Theatre,107,58,49
+1984,UNASSIGNED,0,0,0
+1985,Accountancy,1212,586,626
+1985,Business Administration,983,519,464
+1985,Computer Science,370,301,69
+1985,Economics,192,155,37
+1985,Finance,622,358,264
+1985,MARKETING,218,76,142
+1985,SEC TRAINING,1,0,1
+1985,Teaching of Spanish,14,3,11
+1985,Theatre,100,52,48
+1985,UNASSIGNED,0,0,0
+1986,Accountancy,1081,520,561
+1986,Business Administration,947,534,413
+1986,Computer Science,411,347,64
+1986,Economics,213,173,40
+1986,Finance,664,369,295
+1986,MARKETING,228,72,156
+1986,Teaching of Spanish,28,4,24
+1986,Theatre,104,52,52
+1986,UNASSIGNED,0,0,0
+1987,Accountancy,1039,504,535
+1987,Business Administration,945,570,375
+1987,COM TEACH,1,1,0
+1987,Computer Science,394,335,59
+1987,Economics,236,191,45
+1987,Finance,658,390,268
+1987,MARKETING,201,64,137
+1987,Teaching of Spanish,30,3,27
+1987,Theatre,104,52,52
+1987,UNASSIGNED,0,0,0
+1988,Accountancy,1136,554,582
+1988,Business Administration,1022,631,391
+1988,COM TEACH,1,0,1
+1988,Computer Science,397,342,55
+1988,Economics,236,178,58
+1988,Finance,698,420,278
+1988,MANAGEMENT,1,1,0
+1988,MARKETING,168,60,108
+1988,Teaching of Spanish,31,4,27
+1988,Theatre,119,60,59
+1988,UNASSIGNED,0,0,0
+1989,Accountancy,1085,544,541
+1989,Business Administration,1072,675,397
+1989,COM TEACH,1,0,1
+1989,Computer Science,392,344,48
+1989,Economics,248,187,61
+1989,Finance,739,461,278
+1989,MANAGEMENT,14,7,7
+1989,MARKETING,164,69,95
+1989,Teaching of Spanish,30,3,27
+1989,Theatre,111,55,56
+1989,UNASSIGNED,0,0,0
+1990,Accountancy,1180,613,567
+1990,Business Administration,1164,728,436
+1990,COM TEACH,1,0,1
+1990,Computer Science,397,349,48
+1990,Economics,268,212,56
+1990,Finance,780,530,250
+1990,MANAGEMENT,15,12,3
+1990,MARKETING,145,61,84
+1990,Teaching of Spanish,28,3,25
+1990,Theatre,102,54,48
+1990,UNASSIGNED,0,0,0
+1991,Accountancy,1253,626,627
+1991,Business Administration,1175,747,428
+1991,COM TEACH,1,1,0
+1991,Computer Science,403,351,52
+1991,Economics,263,202,61
+1991,Finance,681,490,191
+1991,MARKETING,178,80,98
+1991,Teaching of Spanish,29,3,26
+1991,Theatre,117,53,64
+1991,UNASSIGNED,0,0,0
+1992,Accountancy,1283,660,623
+1992,Business Administration,1405,861,544
+1992,Computer Science,392,343,49
+1992,Economics,282,201,81
+1992,Finance,589,442,147
+1992,MARKETING,25,11,14
+1992,Teaching of Spanish,41,5,36
+1992,Theatre,126,56,70
+1992,UNASSIGNED,0,0,0
+1993,Accountancy,1259,668,591
+1993,Business Administration,1373,831,542
+1993,COM TEACH,2,0,2
+1993,Computer Science,424,361,63
+1993,Economics,282,194,88
+1993,Finance,554,399,155
+1993,Teaching of Spanish,45,6,39
+1993,Theatre,136,53,83
+1993,UNASSIGNED,0,0,0
+1994,Accountancy,1150,572,578
+1994,Business Administration,1272,789,483
+1994,Computer Science,431,364,67
+1994,Economics,264,185,79
+1994,Finance,589,423,166
+1994,Teaching of Spanish,41,4,37
+1994,Theatre,137,54,83
+1994,UNASSIGNED,0,0,0
+1995,Accountancy,1134,581,553
+1995,Business Administration,1342,800,542
+1995,Computer Science,369,309,60
+1995,Economics,266,189,77
+1995,Finance,682,474,208
+1995,Teaching of Spanish,36,4,32
+1995,Theatre,128,49,79
+1995,UNASSIGNED,0,0,0
+1996,Accountancy,1093,551,542
+1996,Business Administration,1456,848,608
+1996,Computer Science,352,287,65
+1996,Economics,258,180,78
+1996,Finance,664,450,214
+1996,Leisure Studies,8,3,5
+1996,Teaching of Spanish,27,1,26
+1996,Theatre,133,60,73
+1996,UNASSIGNED,0,0,0
+1997,Accountancy,996,511,485
+1997,Business Administration,1451,824,627
+1997,CBA NON-DEGREE,12,6,6
+1997,Computer Science,363,295,68
+1997,Economics,235,153,82
+1997,Executive MBA Program,33,24,9
+1997,Finance,761,522,239
+1997,INT'L MSBA,2,2,0
+1997,Leisure Studies,30,9,21
+1997,Teaching of Spanish,25,0,25
+1997,Technical Systems Management,49,46,3
+1997,Theatre,148,63,85
+1997,UNASSIGNED,0,0,0
+1998,Accountancy,952,483,469
+1998,Business Administration,1389,792,597
+1998,CBA NON-DEGREE,25,13,12
+1998,Computer Science,356,285,71
+1998,Economics,261,180,81
+1998,Executive MBA Program,72,57,15
+1998,Finance,823,560,263
+1998,INT'L MSBA,42,27,15
+1998,Leisure Studies,46,12,34
+1998,Teaching of Spanish,20,0,20
+1998,Technical Systems Management,70,64,6
+1998,Theatre,140,64,76
+1998,UNASSIGNED,0,0,0
+1999,Accountancy,887,454,433
+1999,Business Administration,1355,767,588
+1999,CBA NON-DEGREE,34,18,16
+1999,Computer Science,384,306,78
+1999,Economics,252,178,74
+1999,Executive MBA Program,54,45,9
+1999,Finance,946,612,334
+1999,INT'L MSBA,31,22,9
+1999,Leisure Studies,42,10,32
+1999,Teaching of Spanish,16,0,16
+1999,Technical Systems Management,74,66,8
+1999,Theatre,108,54,54
+1999,UNASSIGNED,0,0,0
+2000,Accountancy,847,423,424
+2000,Business Administration,1380,765,615
+2000,CBA NON-DEGREE,45,23,22
+2000,Computer Science,400,319,81
+2000,Economics,250,172,78
+2000,Executive MBA Program,64,46,18
+2000,Finance,958,623,335
+2000,INT'L MSBA,39,23,16
+2000,Leisure Studies,37,13,24
+2000,Teaching of Spanish,19,5,14
+2000,Technical Systems Management,77,70,7
+2000,Theatre,103,51,52
+2000,UNASSIGNED,0,0,0
+2001,Accountancy,1001,487,514
+2001,Business Administration,1428,811,617
+2001,CBA NON-DEGREE,54,32,22
+2001,Computer Science,437,361,76
+2001,Economics,252,162,90
+2001,Executive MBA Program,64,45,19
+2001,Finance,1026,668,358
+2001,INT'L MSBA,37,29,8
+2001,Leisure Studies,41,15,26
+2001,Teaching of Spanish,26,4,22
+2001,Technical Systems Management,86,80,6
+2001,Theatre,97,47,50
+2001,UNASSIGNED,0,0,0
+2002,Accountancy,1139,573,566
+2002,Business Administration,1291,741,550
+2002,CBA NON-DEGREE,53,31,22
+2002,Computer Science,474,387,87
+2002,Economics,224,159,65
+2002,Executive MBA Program,48,33,15
+2002,Finance,1016,673,343
+2002,INT'L MSBA,43,24,19
+2002,Leisure Studies,28,12,16
+2002,Teaching of Spanish,26,2,24
+2002,Technical Systems Management,89,84,5
+2002,Theatre,114,51,63
+2002,UNASSIGNED,0,0,0
+2003,Accountancy,1231,630,601
+2003,BUS NON-DEGREE,46,25,21
+2003,Business Administration,1152,630,522
+2003,Computer Science,477,392,85
+2003,Economics,223,160,63
+2003,Executive MBA Program,45,35,10
+2003,Finance,925,640,285
+2003,INT'L MSBA,45,32,13
+2003,Leisure Studies,29,3,26
+2003,Teaching of Spanish,24,4,20
+2003,Technical Systems Management,88,81,7
+2003,Theatre,128,64,64
+2003,UNASSIGNED,0,0,0
+2004,Business Administration,860,434,426
+2004,Business Administration (MBA),305,225,80
+2004,Curric Unassigned,385,241,144
+2004,Economics,30,20,10
+2004,Executive MBA Program,1,1,0
+2004,Finance,893,591,302
+2004,Nondegree,33,21,12
+2005,Business Administration,952,490,462
+2005,Business Administration (MBA),238,171,67
+2005,Curric Unassigned,363,220,142
+2005,Economics,16,12,4
+2005,Finance,896,622,271
+2005,Nondegree,34,18,16
+2006,Business Administration,754,382,372
+2006,Business Administration (MBA),329,234,94
+2006,Curric Unassigned,754,453,300
+2006,Economics,7,6,1
+2006,Finance,782,567,214
+2006,Nondegree,32,19,13
+2007,Business Administration,509,254,254
+2007,Business Administration (MBA),371,275,96
+2007,Business Process Management,2,1,1
+2007,Curric Unassigned,1006,578,428
+2007,Economics,1,1,0
+2007,Finance,692,484,207
+2007,Management,1,0,1
+2007,Marketing,3,1,2
+2007,Nondegree,26,18,8
+2008,Business Administration,254,120,134
+2008,Business Administration (MBA),355,258,94
+2008,Business Process Management,6,3,3
+2008,Curric Unassigned,1139,652,487
+2008,Finance,727,496,230
+2008,Information Sys & Info Tech,25,19,6
+2008,Management,84,41,43
+2008,Marketing,102,39,63
+2008,Nondegree,37,24,13
+2008,Supply Chain Management,24,16,8
+2008,Technology Management,0,0,0
+2009,Business Administration,110,60,50
+2009,Business Administration (MBA),345,235,107
+2009,Business Process Management,18,10,8
+2009,Curric Unassigned,1038,574,464
+2009,Finance,698,479,219
+2009,Information Sys & Info Tech,37,30,7
+2009,Management,164,68,95
+2009,Marketing,151,58,93
+2009,Nondegree,42,28,14
+2009,Supply Chain Management,35,24,11
+2009,Taxation,26,12,14
+2009,Technology Management,0,0,0
+2010,Business Administration,58,31,27
+2010,Business Administration (MBA),319,221,97
+2010,Business Process Management,23,12,11
+2010,Curric Unassigned,1020,583,437
+2010,Finance,578,388,190
+2010,Information Sys & Info Tech,32,25,7
+2010,Management,181,91,89
+2010,Marketing,201,68,133
+2010,Nondegree,61,39,22
+2010,Supply Chain Management,52,32,20
+2010,Taxation,29,16,13
+2010,Technology Management,0,0,0
+2011,Business Administration,44,25,19
+2011,Business Administration (MBA),344,251,93
+2011,Business Process Management,31,18,13
+2011,Curric Unassigned,1032,583,449
+2011,Finance,662,448,214
+2011,Information Sys & Info Tech,35,28,7
+2011,Management,150,77,73
+2011,Marketing,205,72,133
+2011,Nondegree,91,57,34
+2011,Supply Chain Management,50,27,23
+2011,Taxation,21,6,15
+2011,Technology Management,0,0,0
+2012,Business Administration,47,25,22
+2012,Business Administration (MBA),401,282,119
+2012,Business Process Management,32,19,13
+2012,Curric Unassigned,924,534,390
+2012,Finance,655,423,232
+2012,Information Sys & Info Tech,34,28,6
+2012,Management,111,50,61
+2012,Marketing,198,72,126
+2012,Nondegree,83,53,30
+2012,Supply Chain Management,58,33,25
+2012,Taxation,31,8,23
+2012,Technology Management,0,0,0
+2013,Business Administration,69,33,36
+2013,Business Administration (MBA),352,244,108
+2013,Business Process Management,35,19,16
+2013,Curric Unassigned,983,542,441
+2013,Finance,605,387,218
+2013,Information Sys & Info Tech,48,37,11
+2013,Management,109,47,62
+2013,Marketing,207,70,137
+2013,Nondegree,72,43,29
+2013,Supply Chain Management,70,38,32
+2013,Taxation,31,13,18
+2013,Technology Management,0,0,0
+2014,Business Administration,88,39,49
+2014,Business Administration (MBA),311,225,86
+2014,Business Process Management,29,14,15
+2014,Curric Unassigned,975,534,441
+2014,Finance,626,407,219
+2014,Information Sys & Info Tech,51,37,14
+2014,Management,103,45,58
+2014,Marketing,221,73,148
+2014,Nondegree,73,51,22
+2014,Supply Chain Management,90,50,40
+2014,Taxation,28,15,13
+2014,Technology Management,0,0,0
+2015,Business Administration,89,38,51
+2015,Business Administration (MBA),288,203,85
+2015,Business Process Management,36,20,16
+2015,Curric Unassigned,1026,564,462
+2015,Finance,705,455,250
+2015,Information Sys & Info Tech,47,28,19
+2015,Management,100,38,62
+2015,Marketing,221,91,130
+2015,Nondegree,78,45,33
+2015,Supply Chain Management,92,38,54
+2015,Taxation,24,7,17
+2015,Technology Management,0,0,0
+2016,Business Administration,88,41,47
+2016,Business Administration (MBA),254,168,86
+2016,Business Process Management,40,20,20
+2016,Curric Unassigned,1015,581,434
+2016,Finance,721,445,276
+2016,Information Sys & Info Tech,83,48,35
+2016,Management,108,35,73
+2016,Marketing,230,88,142
+2016,Nondegree,98,54,44
+2016,Supply Chain Management,85,28,57
+2016,Taxation,24,9,15
+2016,Technology Management,0,0,0
+2017,Business Administration,92,44,48
+2017,Business Administration (MBA),1158,783,374
+2017,Business Process Management,35,17,18
+2017,Curric Unassigned,934,504,428
+2017,Finance,845,540,305
+2017,Information Sys & Info Tech,113,65,48
+2017,Information Systems,3,3,0
+2017,Management,118,62,56
+2017,Marketing,249,87,162
+2017,Nondegree,114,67,47
+2017,Operations Management,1,1,0
+2017,Supply Chain Management,79,29,50
+2017,Taxation,26,13,13
+2017,Technology Management,0,0,0
+2018,Business Administration,95,41,52
+2018,Business Administration (MBA),2017,1359,652
+2018,Business Process Management,17,12,5
+2018,Curric Unassigned,1021,575,445
+2018,Finance,887,572,315
+2018,Information Sys & Info Tech,103,57,46
+2018,Information Systems,25,14,10
+2018,Management,107,52,55
+2018,Marketing,240,74,166
+2018,Nondegree,97,50,47
+2018,Operations Management,11,6,5
+2018,Supply Chain Management,85,32,53
+2018,Technology Management,0,0,0

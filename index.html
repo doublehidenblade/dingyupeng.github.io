@@ -16,23 +16,40 @@
 </head>
 <body class="is-preload">
 <!-- Wrapper -->
-<div id="wrapper">
+<div id="wrapper"
+     style="background-image: url('images/mountain.jpg'); background-repeat: no-repeat; background-attachment: scroll, local; background-position: left 80% top -20%">
+    <div>
+        <style>
+            a:hover, article:hover {
+                text-shadow: 1px 1px black;
+            }
+        </style>
+        <!-- Header -->
+        <header id="header" style="text-align: center; color: white;">
+            <h1 style="text-align: center; color: white; text-shadow: 1px 1px black;">Things built by Dingyu Peng.</h1>
+            <p>Master of Computer Science at the <a style="color: lightgoldenrodyellow"
+                                                    href="https://www.usfca.edu/arts-sciences/graduate-programs/computer-science"
+                                                    target="_blank">University of San Francisco</a><br>
+                Bachelor of Mechanical Engineering at the <a style="color: lightgoldenrodyellow"
+                                                             href="https://mechanical.illinois.edu/" target="_blank">
+                    University of Illinois at Urbana-Champaign</a>
+                <br>And this is my <a style="color: lightgoldenrodyellow"
+                                      href="Dingyu Peng Resume - software engineering.pdf"
+                                      download="Dingyu Peng resume.pdf">resume.</a></p>
 
-    <!-- Header -->
-    <header id="header">
-        <div class="inner">
+            <div class="inner">
 
-            <!-- Nav -->
-            <nav>
-                <ul>
-                    <li><a href="#menu">Menu</a></li>
-                </ul>
-            </nav>
+                <!-- Nav -->
+                <nav>
+                    <ul>
+<!--                        <li><a href="#menu">Menu</a></li>-->
+                    </ul>
+                </nav>
 
-        </div>
-    </header>
-
-    <!-- Menu -->
+            </div>
+        </header>
+    </div>
+<!--    Menu-->
     <nav id="menu">
         <h2>Menu</h2>
         <ul>
@@ -44,14 +61,9 @@
     </nav>
 
     <!-- Main -->
-    <div id="main">
-        <div class="inner">
-            <header>
-                <h1>Built by Dingyu Peng.</h1>
-                <p>Master of Computer Science at the <a href="https://www.usfca.edu/arts-sciences/graduate-programs/computer-science" target="_blank">University of San Francisco</a><br>
-                    Bachelor of Mechanical Engineering at the <a href="https://mechanical.illinois.edu/" target="_blank"> University of Illinois at Urbana-Champaign</a>
-                <br>This is my <a href="Dingyu Peng Resume - software engineering.pdf" download="Dingyu Peng resume.pdf">resume.</a></p>
-            </header>
+    <div id="main" style="background: white; margin-top: 60px; ">
+        <div class="inner" style="text-align: center">
+
             <section class="tiles">
 
                 <article class="style1">
@@ -73,7 +85,8 @@
                     <a href="http://uiucphoton.com/" target="_blank">
                         <h2>Club website</h2>
                         <div class="content">
-                            <p>Film club website with customized backend, featuring dynamic content management, and login system.
+                            <p>Film club website with customized backend, featuring dynamic content management, and
+                                login system.
                                 Achieved with Python, Django.</p>
                         </div>
                     </a>
@@ -107,7 +120,8 @@
 									<span class="image">
 										<img src="images/graphene.png" width="500" height="340" alt=""/>
 									</span>
-                    <a href="https://github.com/doublehidenblade/Automatic-Detection-of-Graphene/tree/master" target="_blank">
+                    <a href="https://github.com/doublehidenblade/Automatic-Detection-of-Graphene/tree/master"
+                       target="_blank">
                         <h2>Automatic Detection of Graphene</h2>
                         <div class="content">
                             <p>A supervised learning model to identify Graphene coverage in microscopic images.</p>
@@ -115,18 +129,19 @@
                     </a>
                 </article>
 
-                <article class="style7">
+                <article class="style6">
 									<span class="image">
-										<img src="images/pic06.jpg" width="500" height="340" alt=""/>
+										<img src="images/AR.png" width="500" height="340" alt=""/>
 									</span>
-                    <a href="generic.html" target="_blank">
-                        <h2>Veroeros</h2>
+                    <a href="https://github.com/doublehidenblade/Augmented-Campus" target="_blank">
+                        <h2>Augmented Reality Campus Tour</h2>
                         <div class="content">
-                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                            <p>An android app that detects objects and plays an intro video on it, or in this case, the
+                                webcam detected a photo on my phone and shows a video on it. Achieved with Unity 3D and
+                                Vuforia.</p>
                         </div>
                     </a>
                 </article>
-
 
 
             </section>
@@ -134,13 +149,16 @@
     </div>
 
     <!-- Footer -->
-    <footer id="footer">
+    <footer id="footer" style="background-image: url('images/pic07.jpg'); background-size: cover">
+        <style>
+            p, h2, li{color: white}
+        </style>
         <div class="inner">
             <section>
                 <div class="col-md-3 text-center">
                     <ul class="list-unstyled mb-0">
-                            <p>+ 1 217 650 9045</p>
-                            <p>dpeng4@illinois.edu</p>
+                        <p>+ 1 217 650 9045</p>
+                        <p>dpeng4@illinois.edu</p>
                     </ul>
                 </div>
             </section>
@@ -149,9 +167,11 @@
                 <ul class="icons">
                     <li><a href="https://www.linkedin.com/in/dingyu-peng-086524131/?locale=en_US" target="_blank"
                            class="icon style2 fa-linkedin"><span class="label">Facebook</span></a></li>
-                    <li><a href="https://www.instagram.com/pdy_says_hi/" target="_blank" class="icon style2 fa-instagram"><span
+                    <li><a href="https://www.instagram.com/pdy_says_hi/" target="_blank"
+                           class="icon style2 fa-instagram"><span
                             class="label">Instagram</span></a></li>
-                    <li><a href="https://github.com/doublehidenblade"  target="_blank" class="icon style2 fa-github"><span class="label">GitHub</span></a>
+                    <li><a href="https://github.com/doublehidenblade" target="_blank"
+                           class="icon style2 fa-github"><span class="label">GitHub</span></a>
                     </li>
                 </ul>
             </section>

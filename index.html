@@ -15,9 +15,22 @@
     </noscript>
 </head>
 <body class="is-preload">
+<style>
+.parallax {
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
 <!-- Wrapper -->
-<div id="wrapper"
-     style="background-image: url('images/mountain.jpg'); background-repeat: no-repeat; background-attachment: scroll, local; background-position: left 80% top -20%">
+<div id="wrapper" class="parallax"
+     style="background-image: url('images/mountain.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-position: left 80% top -20%">
     <div>
         <style>
             a:hover, article:hover {

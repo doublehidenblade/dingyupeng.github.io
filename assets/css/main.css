@@ -2685,28 +2685,13 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: silver;
+				background-color: gold;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #a8bde0;
+				background-color: black;
 			}
 
-			.tiles article.style3 > .image:before {
-				background-color: #a8e0a8;
-			}
-
-			.tiles article.style4 > .image:before {
-				background-color: #d9a8e0;
-			}
-
-			.tiles article.style5 > .image:before {
-				background-color: #d2e0a8;
-			}
-
-			.tiles article.style6 > .image:before {
-				background-color: #e0a8a8;
-			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);

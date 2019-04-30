@@ -4,182 +4,188 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-(function($) {
+(function ($) {
 
-	var	$window = $(window),
-		$body = $('body');
+    var $window = $(window),
+        $body = $('body');
 
-	// Breakpoints.
-		breakpoints({
-			xlarge:   [ '1281px',  '1680px' ],
-			large:    [ '981px',   '1280px' ],
-			medium:   [ '737px',   '980px'  ],
-			small:    [ '481px',   '736px'  ],
-			xsmall:   [ '361px',   '480px'  ],
-			xxsmall:  [ null,      '360px'  ]
-		});
+    // Breakpoints.
+    breakpoints({
+        xlarge: ['1281px', '1680px'],
+        large: ['981px', '1280px'],
+        medium: ['737px', '980px'],
+        small: ['481px', '736px'],
+        xsmall: ['361px', '480px'],
+        xxsmall: [null, '360px']
+    });
 
-	// Play initial animations on page load.
-		$window.on('load', function() {
-			window.setTimeout(function() {
-				$body.removeClass('is-preload');
-			}, 100);
-		});
+    // Play initial animations on page load.
+    $window.on('load', function () {
+        window.setTimeout(function () {
+            $body.removeClass('is-preload');
+        }, 100);
+    });
 
-	// Touch?
-		if (browser.mobile)
-			$body.addClass('is-touch');
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+    $(window).scroll(function () {
+        var scrolledY = $(window).scrollTop();
+        $('.parallax').css('background-position', 'left ' + ((scrolledY)) + 'px');
+    });}
 
-	// Forms.
-		var $form = $('form');
+    // Touch?
+    if (browser.mobile)
+        $body.addClass('is-touch');
 
-		// Auto-resizing textareas.
-			$form.find('textarea').each(function() {
+    // Forms.
+    var $form = $('form');
 
-				var $this = $(this),
-					$wrapper = $('<div class="textarea-wrapper"></div>'),
-					$submits = $this.find('input[type="submit"]');
+    // Auto-resizing textareas.
+    $form.find('textarea').each(function () {
 
-				$this
-					.wrap($wrapper)
-					.attr('rows', 1)
-					.css('overflow', 'hidden')
-					.css('resize', 'none')
-					.on('keydown', function(event) {
+        var $this = $(this),
+            $wrapper = $('<div class="textarea-wrapper"></div>'),
+            $submits = $this.find('input[type="submit"]');
 
-						if (event.keyCode == 13
-						&&	event.ctrlKey) {
+        $this
+            .wrap($wrapper)
+            .attr('rows', 1)
+            .css('overflow', 'hidden')
+            .css('resize', 'none')
+            .on('keydown', function (event) {
 
-							event.preventDefault();
-							event.stopPropagation();
+                if (event.keyCode == 13
+                    && event.ctrlKey) {
 
-							$(this).blur();
+                    event.preventDefault();
+                    event.stopPropagation();
 
-						}
+                    $(this).blur();
 
-					})
-					.on('blur focus', function() {
-						$this.val($.trim($this.val()));
-					})
-					.on('input blur focus --init', function() {
+                }
 
-						$wrapper
-							.css('height', $this.height());
+            })
+            .on('blur focus', function () {
+                $this.val($.trim($this.val()));
+            })
+            .on('input blur focus --init', function () {
 
-						$this
-							.css('height', 'auto')
-							.css('height', $this.prop('scrollHeight') + 'px');
+                $wrapper
+                    .css('height', $this.height());
 
-					})
-					.on('keyup', function(event) {
+                $this
+                    .css('height', 'auto')
+                    .css('height', $this.prop('scrollHeight') + 'px');
 
-						if (event.keyCode == 9)
-							$this
-								.select();
+            })
+            .on('keyup', function (event) {
 
-					})
-					.triggerHandler('--init');
+                if (event.keyCode == 9)
+                    $this
+                        .select();
 
-				// Fix.
-					if (browser.name == 'ie'
-					||	browser.mobile)
-						$this
-							.css('max-height', '10em')
-							.css('overflow-y', 'auto');
+            })
+            .triggerHandler('--init');
 
-			});
+        // Fix.
+        if (browser.name == 'ie'
+            || browser.mobile)
+            $this
+                .css('max-height', '10em')
+                .css('overflow-y', 'auto');
 
-	// Menu.
-		var $menu = $('#menu');
+    });
 
-		$menu.wrapInner('<div class="inner"></div>');
+    // Menu.
+    var $menu = $('#menu');
 
-		$menu._locked = false;
+    $menu.wrapInner('<div class="inner"></div>');
 
-		$menu._lock = function() {
+    $menu._locked = false;
 
-			if ($menu._locked)
-				return false;
+    $menu._lock = function () {
 
-			$menu._locked = true;
+        if ($menu._locked)
+            return false;
 
-			window.setTimeout(function() {
-				$menu._locked = false;
-			}, 350);
+        $menu._locked = true;
 
-			return true;
+        window.setTimeout(function () {
+            $menu._locked = false;
+        }, 350);
 
-		};
+        return true;
 
-		$menu._show = function() {
+    };
 
-			if ($menu._lock())
-				$body.addClass('is-menu-visible');
+    $menu._show = function () {
 
-		};
+        if ($menu._lock())
+            $body.addClass('is-menu-visible');
 
-		$menu._hide = function() {
+    };
 
-			if ($menu._lock())
-				$body.removeClass('is-menu-visible');
+    $menu._hide = function () {
 
-		};
+        if ($menu._lock())
+            $body.removeClass('is-menu-visible');
 
-		$menu._toggle = function() {
+    };
 
-			if ($menu._lock())
-				$body.toggleClass('is-menu-visible');
+    $menu._toggle = function () {
 
-		};
+        if ($menu._lock())
+            $body.toggleClass('is-menu-visible');
 
-		$menu
-			.appendTo($body)
-			.on('click', function(event) {
-				event.stopPropagation();
-			})
-			.on('click', 'a', function(event) {
+    };
 
-				var href = $(this).attr('href');
+    $menu
+        .appendTo($body)
+        .on('click', function (event) {
+            event.stopPropagation();
+        })
+        .on('click', 'a', function (event) {
 
-				event.preventDefault();
-				event.stopPropagation();
+            var href = $(this).attr('href');
 
-				// Hide.
-					$menu._hide();
+            event.preventDefault();
+            event.stopPropagation();
 
-				// Redirect.
-					if (href == '#menu')
-						return;
+            // Hide.
+            $menu._hide();
 
-					window.setTimeout(function() {
-						window.location.href = href;
-					}, 350);
+            // Redirect.
+            if (href == '#menu')
+                return;
 
-			})
-			.append('<a class="close" href="#menu">Close</a>');
+            window.setTimeout(function () {
+                window.location.href = href;
+            }, 350);
 
-		$body
-			.on('click', 'a[href="#menu"]', function(event) {
+        })
+        .append('<a class="close" href="#menu">Close</a>');
 
-				event.stopPropagation();
-				event.preventDefault();
+    $body
+        .on('click', 'a[href="#menu"]', function (event) {
 
-				// Toggle.
-					$menu._toggle();
+            event.stopPropagation();
+            event.preventDefault();
 
-			})
-			.on('click', function(event) {
+            // Toggle.
+            $menu._toggle();
 
-				// Hide.
-					$menu._hide();
+        })
+        .on('click', function (event) {
 
-			})
-			.on('keydown', function(event) {
+            // Hide.
+            $menu._hide();
 
-				// Hide on escape.
-					if (event.keyCode == 27)
-						$menu._hide();
+        })
+        .on('keydown', function (event) {
 
-			});
+            // Hide on escape.
+            if (event.keyCode == 27)
+                $menu._hide();
+
+        });
 
 })(jQuery);

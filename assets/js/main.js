@@ -30,6 +30,7 @@
         $(window).scroll(function () {
             var scrolledY = $(window).scrollTop();
             $('.parallax').css('background-position', 'left ' + ((scrolledY)) + 'px');
+            $('.parallax').css('background-size', '500 px');
         });
     }
 

@@ -26,11 +26,12 @@
         }, 100);
     });
 
-    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
-    $(window).scroll(function () {
-        var scrolledY = $(window).scrollTop();
-        $('.parallax').css('background-position', 'left ' + ((scrolledY)) + 'px');
-    });}
+    if($('.parallax').css('background-attachment')==='scroll'){
+        $(window).scroll(function () {
+            var scrolledY = $(window).scrollTop();
+            $('.parallax').css('background-position', 'left ' + ((scrolledY)) + 'px');
+        });
+    }
 
     // Touch?
     if (browser.mobile)
